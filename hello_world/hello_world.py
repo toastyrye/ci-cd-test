@@ -3,11 +3,9 @@
 
 def hello(option: str) -> str:
     """Return hello statement
-
     :param option:
     :return:
     """
-
     statement = "hello " + option  # TODO change this line to test coverage
     return statement
 
