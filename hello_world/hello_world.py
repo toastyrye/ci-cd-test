@@ -8,7 +8,7 @@ def hello(option: str) -> str:
     :return:
     """
 
-    statement = "hello my " + option
+    statement = "hello " + option
     return statement
 
 
