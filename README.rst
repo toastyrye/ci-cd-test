@@ -9,7 +9,7 @@ Install development dependencies
 Checkout development branch
 Test tox environment
     tox
-Activate automated pre-commit hooks
+Activate automated pre-commit hooks (or don't lol)
     pre-commit install
 Begin developing!
 
