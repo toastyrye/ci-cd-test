@@ -6,10 +6,11 @@ Create virtual environment
     python3 -m venv /path/to/new/virtual/environment/ci-cd-test
 Install development dependencies
     pip install -r requirements.txt
-Activate automated pre-commit hooks
-    pre-commit install
+Checkout development branch
 Test tox environment
     tox
+Activate automated pre-commit hooks
+    pre-commit install
 Begin developing!
 
 # Development Process
