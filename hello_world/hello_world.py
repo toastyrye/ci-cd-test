@@ -8,7 +8,7 @@ def hello(option: str) -> str:
     :return:
     """
 
-    statement = "hello " + option
+    statement = "hello " + option  # TODO change this line to test coverage
     return statement
 
 
